@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Threading\Threading\obj\Debug\Threading.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Threading\Threading\obj\Debug\Threading.frmTrackThread.resources
+C:\Users\Acer\source\repos\Threading\Threading\obj\Debug\Threading.Properties.Resources.resources
+C:\Users\Acer\source\repos\Threading\Threading\obj\Debug\Threading.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\Acer\source\repos\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\Acer\source\repos\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\Acer\source\repos\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\Acer\source\repos\Threading\Threading\obj\Debug\Threading.pdb
